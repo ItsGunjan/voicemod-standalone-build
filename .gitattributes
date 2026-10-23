@@ -1,0 +1,11 @@
+# Configuration for git attributes
+
+# Default behavior
+*.min.js linguist-generated
+*.htm linguist-vendored
+
+*.html linguist-vendored
+* text=auto eol=lf
+src/*.ts linguist-detectable
+vendor/* linguist-vendored
+*.yml linguist-detectable=false
