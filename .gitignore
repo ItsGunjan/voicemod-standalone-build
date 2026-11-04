@@ -1,0 +1,6 @@
+.next/
+node_modules/
+*.tgz
+npm-debug.log*
+*.log
+.env
